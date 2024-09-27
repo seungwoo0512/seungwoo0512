@@ -4,7 +4,11 @@
 <div align="center">
   
  [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=tmddn0512)](https://solved.ac/tmddn0512/)
-  
+
+
+  ## 📝 My Tech Blog
+[Visit my blog](https://tmddn0512.tistory.com/)
+
 </div>
 
 
